@@ -1,18 +1,19 @@
-<div align="Center"> 
-  <h1 >JP1593</h1> 
+  
+  ### :milky_way: JP1593 
   
   **`Technology Freak (Software Engineer / Developer)`**
-</div> 
 
 <div align="Center"> 
   
-$${\color{red}Hello \space there \space stranger! \space \space 🐯}$$
+$${\color{orchid}Hello \space there \space stranger! \space \space 🐯}$$
 
 </div>
 
 Welcome to jp1593 HUB,a software developer that has been inolved with multiples technologies on the field of web development among the university (In wich I still on), right now I am focused on getting more into the ML and Embedded system for specialization on the future by enchacing the knowledge on C++ and Python which are my daily breads.  
 
-I am a fan about talking and building tech. Learning it based on the projects construction. 🏗️
+I am a fan about talking and building tech. Learning it based on the projects construction. 🏗️}
+
+<br/>
 
 Field in which I can contribute value:
 
@@ -30,7 +31,7 @@ To know more about me on a daily basis, this are my hobbies:
 
     
 
-$${\color{blue}Passionated \space by: \space CARS \space :heart:}$$
+$${\color{orchid}Passionated \space by: \space CARS \space :heart:}$$
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqNTcxYXdnOHpxdWU4cXBwa2xzd2RvZW83bzk0ZWE0bW5tc3VjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZ5KeXcr0nYaY/giphy.gif" width="500"/>
