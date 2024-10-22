@@ -1,50 +1,45 @@
-
 <div align="Center"> 
   <h1 >JP1593</h1> 
   
   **`Technology Freak (Software Engineer / Developer)`**
-
 </div> 
 
 <div align="Center"> 
   
-$${\color{red}Hello \space there \space stranger! \space \space :tiger:}$$
+$${\color{red}Hello \space there \space stranger! \space \space 🐯}$$
 
 </div>
 
-<!---
-<div id="header" align="center">
-##  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZvbWxtOWM3ZXgyb25mYWRlMmYxMjRzZnZqZzB4bWs5ZnNuM3NjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-#</div>
--->
-Welcome to jp1593 HUB,a software developer that has been inolved with multiples technologies on the field of web development among the university time (I still on it) which is focusing of getting more into the ML and Embedded system for specialization on the future by enchacing the knowledge on C++ and Python which are my daily breads.  
-<br/>
+Welcome to jp1593 HUB,a software developer that has been inolved with multiples technologies on the field of web development among the university (In wich I still on), right now I am focused on getting more into the ML and Embedded system for specialization on the future by enchacing the knowledge on C++ and Python which are my daily breads.  
 
-I am a fan about talking and building tech and on the learning of it by the principle of based projects learning. 
+I am a fan about talking and building tech. Learning it based on the projects construction. 🏗️
 
 Field in which I can contribute value:
 
     Backend - Frontend - CI/CD - Docker - Github 
 
+<br>
+
+Most of my projects are public so are dare you to take a sight on them and try to make corrections to them. 💥
+
 <br/>
-Most of my projects are public so are dare you to take a sight on them and try to make corrections to them. :collision:
 
-To know much about me on a daily basis, this are my hobbies: 
+To know more about me on a daily basis, this are my hobbies: 
 
-    Reading - Sports (Mostly Footbal :soccer:) - Gym - Videogames
+    Reading - Sports (Mostly Footbal) - Gym - Videogames
 
     
 
-$${\color{blue}Passionated by: \space CARS \space :heart:}$$
+$${\color{blue}Passionated \space by: \space CARS \space :heart:}$$
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqNTcxYXdnOHpxdWU4cXBwa2xzd2RvZW83bzk0ZWE0bW5tc3VjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZ5KeXcr0nYaY/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNqNTcxYXdnOHpxdWU4cXBwa2xzd2RvZW83bzk0ZWE0bW5tc3VjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZ5KeXcr0nYaY/giphy.gif" width="500"/>
 </div>
 
 
 
 
-## My Stats :star: :
+## My Stats ⭐ :
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jp1593&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -52,7 +47,7 @@ $${\color{blue}Passionated by: \space CARS \space :heart:}$$
 </div>
 
 
-## Techonolgy stack
+## Techonolgy stack 💻 :
 <div align="center">
 <img alt="" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img  alt="" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
