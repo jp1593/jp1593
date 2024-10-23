@@ -34,15 +34,11 @@ $${\color{orchid}Passionated \space by: \space CARS \space :heart:}$$
 
 
 ## My Stats ⭐ :
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp1593&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div> 
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jp1593&theme=dark)](https://git.io/streak-stats) 
-</div>
-
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jp1593&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <a>-----------------------------------</a>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jp1593&layout=compact&theme=radical">
+</p>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp1593)](https://github.com/anuraghazra/github-readme-stats)
