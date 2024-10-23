@@ -36,7 +36,6 @@ $${\color{orchid}Passionated \space by: \space CARS \space :heart:}$$
 ## My Stats ⭐ :
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jp1593&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
-  <a>-----------------------------------</a>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jp1593&layout=compact&theme=radical">
 </p>
 
