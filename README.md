@@ -5,7 +5,7 @@
 
 <div align="Center"> 
   
-$${\color{orchid}Hello \space there \space stranger! \space \space 🐯}$$
+$${\color{orchid}Hello \space there \space \space 🧑‍🚀}$$
 
 </div>
 
